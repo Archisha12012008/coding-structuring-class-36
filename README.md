@@ -1,1 +1,2 @@
-# coding-structuring-class-36
+# synchronousBallMovement
+Ball moving synchronously
